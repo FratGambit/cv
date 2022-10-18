@@ -1,6 +1,7 @@
 /***********************TAG SELECTORS*******************/
 body {
   background-color: #DBE2EF;
+    font-family: 'Merriweather Sans', sans-serif;
 }
 
 hr {
@@ -18,6 +19,7 @@ h2 {
   text-decoration-line: underline;
   text-decoration-style: solid;
   color: #142850;
+  font-family: 'Montserrat', sans-serif;
 }
 
 h3 {
@@ -25,3 +27,12 @@ h3 {
 }
 
 /*********************CLASS SELECTORS********************/
+.bio {
+  width: 30%;
+
+}
+.personal-info {
+  font-size: 1rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
